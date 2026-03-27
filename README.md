@@ -30,12 +30,18 @@
 ![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino)
 ![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)
 
-### 🔌 Hardware & Tools
+### 🔌 Hardware & Communication
 ![UART](https://img.shields.io/badge/UART-445C6D?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-527EB2y?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-3EAAAF?style=for-the-badge)
+
+### 🔧Digital Design
+ ,
+![Altium Design](https://img.shields.io/badge/Altium Design-FEC111?style=for-the-badge)
+![Pspice](https://img.shields.io/badge/Pspice-FEC111?style=for-the-badge)
+![ Proteus](https://img.shields.io/badge/Proteus-FEC111?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-FFFFF?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-01B4E4?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
