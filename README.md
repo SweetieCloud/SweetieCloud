@@ -50,4 +50,4 @@
 ## 📫 Contact Me
 
 - 📧 Email: buithanhqui2905@gmail.com
-- 💼 LinkedIn: [your_linkedin_here](https://www.linkedin.com/in/buithanhqui/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/buithanhqui/)
