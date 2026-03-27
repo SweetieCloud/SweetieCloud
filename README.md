@@ -48,8 +48,8 @@
 
 ## 📫 Contact Me
 
-- [](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) buithanhqui2905@gmail.com
-- <a href="https://www.linkedin.com/in/buithanhqui/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+- 📧 Email: buithanhqui2905@gmail.com
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/buithanhqui/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
 </a>
  
