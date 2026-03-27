@@ -1,24 +1,53 @@
-# Xin chào, mình là An 👋
+# Hi 👋, I'm Bui Thanh Qui
 
-Mình là người mới học lập trình, đang tìm hiểu về Web Development và Python.
+🎓 Computer Engineering student at HCMUT  
+💡 Interested in Embedded Systems, IoT, and Edge AI  
+⚡ Passionate about real-time systems and TinyML
 
-## Về mình
-- Học: HTML, CSS, JavaScript
-- Mục tiêu: làm được các dự án web hoàn chỉnh
-- Hiện tại đang học: React, Node.js
+---
 
-## Công nghệ mình dùng
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+## 🚀 About Me
 
-## Dự án nổi bật
-- [Todo App](https://github.com/username/todo-app)
-- [Portfolio Website](https://github.com/username/portfolio)
-- [Weather App](https://github.com/username/weather-app)
+- 🔭 Currently working on: Embedded Systems & Edge AI projects  
+- 🌱 Learning: Advanced Embedded Systems, RTOS, TinyML  
+- 🧠 Strong in: C/C++, Python, Microcontrollers, FPGA  
 
-## Liên hệ
-- Facebook: ...
-- Email: ...
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Verilog](https://img.shields.io/badge/Verilog-grey?style=for-the-badge)
+
+### ⚙️ Embedded & IoT
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino)
+![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)
+
+### 🔌 Hardware & Tools
+![UART](https://img.shields.io/badge/UART-grey?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-grey?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-grey?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: buithanhqui2905@gmail.com
+- 💼 LinkedIn: [your_linkedin_here](https://www.linkedin.com/in/buithanhqui/)
