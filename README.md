@@ -50,6 +50,6 @@
 
 - 📧 Email: buithanhqui2905@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/buithanhqui/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
 </a>
  
