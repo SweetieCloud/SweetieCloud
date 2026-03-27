@@ -19,7 +19,7 @@
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-2E7DE9?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-FEC111?style=for-the-badge&logo=python)
 ![Verilog](https://img.shields.io/badge/Verilog-666666?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-527EB2?style=for-the-badge&logo=r)
 
@@ -37,11 +37,11 @@
 
 ### 🔧Digital Design
 
-![AltiumDesign](https://img.shields.io/badge/AltiumDesign-FEC111?style=for-the-badge)
-![Pspice](https://img.shields.io/badge/Pspice-FEC111?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-FEC111?style=for-the-badge)
+![AltiumDesign](https://img.shields.io/badge/AltiumDesign-0865AD?style=for-the-badge)
+![Pspice](https://img.shields.io/badge/Pspice-233A51?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-3EAAAF?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-01B4E4?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-65ADF1?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
