@@ -35,7 +35,7 @@
 ![SPI](https://img.shields.io/badge/SPI-grey?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-grey?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-7FADF2?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
