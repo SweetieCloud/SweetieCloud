@@ -49,4 +49,9 @@
 ## 📫 Contact Me
 
 - 📧 Email: buithanhqui2905@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/buithanhqui/)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/buithanhqui/)
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/your-link)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
