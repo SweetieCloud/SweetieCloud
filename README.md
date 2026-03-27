@@ -48,7 +48,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: buithanhqui2905@gmail.com
+- <a href="mailto:buithanhqui2905@email.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
+</a>
 - <a href="https://www.linkedin.com/in/buithanhqui/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
