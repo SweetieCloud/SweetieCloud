@@ -49,7 +49,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: buithanhqui2905@gmail.com
-- 💼 <a href="https://www.linkedin.com/in/buithanhqui/">
+- <a href="https://www.linkedin.com/in/buithanhqui/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
  
