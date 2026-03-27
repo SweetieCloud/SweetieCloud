@@ -34,9 +34,9 @@
 ![UART](https://img.shields.io/badge/UART-grey?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-grey?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-grey?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
