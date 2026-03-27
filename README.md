@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at HCMUT  
 💡 Interested in Embedded Systems, IoT, and Edge AI  
-⚡ Passionate about real-time systems and TinyML
+⚡ Passionate about real-time systems and ML
 
 ---
 
@@ -21,6 +21,7 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Verilog](https://img.shields.io/badge/Verilog-grey?style=for-the-badge)
+![R](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=r)
 
 ### ⚙️ Embedded & IoT
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
@@ -36,14 +37,6 @@
 ![Vivado](https://img.shields.io/badge/Vivado-orange?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
