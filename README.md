@@ -36,7 +36,7 @@
 ![I2C](https://img.shields.io/badge/I2C-3EAAAF?style=for-the-badge)
 
 ### 🔧Digital Design
- ,
+
 ![Altium Design](https://img.shields.io/badge/Altium Design-FEC111?style=for-the-badge)
 ![Pspice](https://img.shields.io/badge/Pspice-FEC111?style=for-the-badge)
 ![ Proteus](https://img.shields.io/badge/Proteus-FEC111?style=for-the-badge)
