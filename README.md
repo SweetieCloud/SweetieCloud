@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bui Thanh Qui
+# Hi there👋, I'm Bui Thanh Qui
 
 🎓 Computer Engineering student at HCMUT  
 💡 Interested in Embedded Systems, IoT, and Edge AI  
