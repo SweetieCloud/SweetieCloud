@@ -37,9 +37,9 @@
 
 ### 🔧Digital Design
 
-![Altium Design](https://img.shields.io/badge/Altium Design-FEC111?style=for-the-badge)
+![AltiumDesign](https://img.shields.io/badge/AltiumDesign-FEC111?style=for-the-badge)
 ![Pspice](https://img.shields.io/badge/Pspice-FEC111?style=for-the-badge)
-![ Proteus](https://img.shields.io/badge/Proteus-FEC111?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-FEC111?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-01B4E4?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
