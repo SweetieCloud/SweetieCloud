@@ -30,7 +30,6 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto)
 ![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino)
 
-
 ### 🔌 Hardware & Communication
 ![UART](https://img.shields.io/badge/UART-445C6D?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-527EB2?style=for-the-badge)
@@ -38,21 +37,18 @@
 ![ADC](https://img.shields.io/badge/ADC-8A2BE2?style=for-the-badge)
 
 ### 💻 Digital Design
-
 ![Altium Design](https://img.shields.io/badge/Altium%20Design-0865AD?style=for-the-badge&logo=altiumdesigner)
 ![Pspice](https://img.shields.io/badge/Pspice-233A51?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-3EAAAF?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
 
 ### 🧰 Tools & DevOps
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/Docker-65ADF1?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-57A143?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1D1D1D?style=for-the-badge&logo=javascript)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-
 
 ---
 
@@ -62,5 +58,5 @@
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/buithanhqui/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
 </a>
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
+- 💼 LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
  
