@@ -24,16 +24,18 @@
 ![R](https://img.shields.io/badge/R-527EB2?style=for-the-badge&logo=r)
 
 ### ⚙️ Embedded & IoT
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto)
 ![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino)
-![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)
+
 
 ### 🔌 Hardware & Communication
 ![UART](https://img.shields.io/badge/UART-445C6D?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-527EB2y?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-527EB2?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-3EAAAF?style=for-the-badge)
+![ADC](https://img.shields.io/badge/ADC-8A2BE2?style=for-the-badge)
 
 ### 💻 Digital Design
 
@@ -41,8 +43,15 @@
 ![Pspice](https://img.shields.io/badge/Pspice-233A51?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-3EAAAF?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
+
+### 🧰 Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-65ADF1?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+
 
 ---
 
