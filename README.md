@@ -35,9 +35,9 @@
 ![SPI](https://img.shields.io/badge/SPI-527EB2y?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-3EAAAF?style=for-the-badge)
 
-### 🔧Digital Design
+### 💻 Digital Design
 
-![AltiumDesign](https://img.shields.io/badge/AltiumDesign-0865AD?style=for-the-badge)
+![Altium Design](https://img.shields.io/badge/Altium%20Design-0865AD?style=for-the-badge&logo=altiumdesigner)
 ![Pspice](https://img.shields.io/badge/Pspice-233A51?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-3EAAAF?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
