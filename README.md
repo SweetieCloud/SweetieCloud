@@ -45,6 +45,7 @@
 ![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
 
 ### 🧰 Tools & DevOps
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/Docker-65ADF1?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,4 +62,5 @@
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/buithanhqui/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
 </a>
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
  
