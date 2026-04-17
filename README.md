@@ -20,13 +20,12 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-2E7DE9?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-FEC111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-1D2152?style=for-the-badge&logo=javascript)
 ![Verilog](https://img.shields.io/badge/Verilog-666666?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-527EB2?style=for-the-badge&logo=r)
 
 ### ⚙️ Embedded & IoT
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
+![ESP32](https://img.shields.io/badge/ESP32-3B3754?style=for-the-badge&logo=espressif)
+![STM32](https://img.shields.io/badge/STM32-2C1180?style=for-the-badge&logo=stmicroelectronics)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto)
 ![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino)
@@ -41,13 +40,13 @@
 ![Altium Design](https://img.shields.io/badge/Altium%20Design-0865AD?style=for-the-badge&logo=altiumdesigner)
 ![Pspice](https://img.shields.io/badge/Pspice-233A51?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-3EAAAF?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado-FEC111?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-E0D08D?style=for-the-badge)
 
 ### 🧰 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-65ADF1?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-A1DFED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-57A143?style=for-the-badge&logo=html5)
+![Linux](https://img.shields.io/badge/Linux-EDECD1?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-69F572?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1D1D1D?style=for-the-badge&logo=javascript)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 
