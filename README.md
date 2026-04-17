@@ -40,12 +40,12 @@
 ![Altium Design](https://img.shields.io/badge/Altium%20Design-0865AD?style=for-the-badge&logo=altiumdesigner)
 ![Pspice](https://img.shields.io/badge/Pspice-233A51?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-1F4DAD?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado-BDC73A?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-C9C930?style=for-the-badge)
 
 ### 🧰 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-A1DFED?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-61CDFF?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-F0F0DA?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-F7F7F2?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-22BD3C?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1D1D1D?style=for-the-badge&logo=javascript)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
