@@ -20,6 +20,7 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-2E7DE9?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-FEC111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Verilog](https://img.shields.io/badge/Verilog-666666?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-527EB2?style=for-the-badge&logo=r)
 
