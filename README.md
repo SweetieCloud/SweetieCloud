@@ -1,7 +1,7 @@
 # Hi there👋, I'm Bui Thanh Qui
 
-🎓 Computer Engineering student at HCMUT  
-🎯 **Focus:** RTL Design | Design Verification 
+🎓 Computer Engineering student at HCMUT
+🎯 Focus on **Digital IC Design & Design Verification**
 ⚡ Passionate about Computer Architecture, Digital Systems, and FPGA Acceleration
 
 
@@ -33,14 +33,20 @@
 
 ### 🧰 Developer Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-F7F7F2?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-61CDFF?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-B6D8FA?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: buithanhqui2905@gmail.com
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/buithanhqui/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
-</a> 
+<table>
+  <tr>
+    <td>📧 <b>Email:</b></td>
+    <td>buithanhqui2905@gmail.com</td>
+  </tr>
+  <tr>
+    <td><img src="https://jsdelivr.net" width="20" style="vertical-align: middle;"/> <b>LinkedIn:</b></td>
+    <td><a href="https://linkedin.com" target="_blank">buithanhqui</a></td>
+  </tr>
+</table>
