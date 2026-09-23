@@ -40,13 +40,6 @@
 
 ## 📫 Contact Me
 
-<table>
-  <tr>
-    <td>📧 <b>Email:</b></td>
-    <td>buithanhqui2905@gmail.com</td>
-  </tr>
-  <tr>
-    <td><img src="https://jsdelivr.net" width="20" style="vertical-align: middle;"/> <b>LinkedIn:</b></td>
-    <td><a href="https://linkedin.com" target="_blank">buithanhqui</a></td>
-  </tr>
-</table>
+
+- 📧 **Email:** buithanhqui2905@gmail.com
+- <img src="https://jsdelivr.net" width="16" valign="middle"/> **LinkedIn:** <a href="https://linkedin.com" target="_blank">buithanhqui</a>
