@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Bui Thanh Qui
+# Hi there 👋, I'm Bui Thanh Qui 
 
-🎓 Computer Engineering student at HCMUT
-🎯 Focus on **Digital IC Design & Design Verification**
+🎓 Computer Engineering student at HCMUT 
+🎯 Focus on **Digital IC Design & Design Verification** 
 ⚡ Passionate about Computer Architecture, Digital Systems, and FPGA Acceleration
 
 ---
@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - 🔭 **Currently working on:** FPGA-based accelerator system for AI-based image processing.
-- 🌱 Learning: Universal Verification Methodology (UVM) & Advanced Computer Architecture.  
-- 🧠 **Core Expertise:** RTL Synthesis, Pipelined Processors, Hardware-Software Co-design.
+- 🌱 Learning: Universal Verification Methodology (UVM) & Advanced Computer Architecture.
+- 🧠 **Core Expertise:** RTL Synthesis, Pipelined Processors, Hardware Accelerator.
 
 ---
 
@@ -41,4 +41,4 @@
 
 
 - 📧 **Email:** buithanhqui2905@gmail.com
-- <a href="https://www.linkedin.com/in/buithanhqui/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="17" valign="middle"/> **LinkedIn:** <a href="https://linkedin.com" target="_blank">buithanhqui</a>
+- <a href="https://www.linkedin.com/in/buithanhqui/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="19" valign="middle"/><a> **LinkedIn:** <a href="https://linkedin.com" target="_blank">buithanhqui</a>
